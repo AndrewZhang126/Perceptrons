@@ -19,24 +19,30 @@ The results of training ternary perceptrons for 50 epochs on the Iris data with 
 
 
 The results of the One vs All classifier for Class 0
+
 ![](images/Class0OneVsAll.png)
 
 
 The results of the One vs All classifier for Class 1
+
 ![](images/Class1OneVsAll.png)
 
 
 The results of the One vs All classifier for Class 2
+
 ![](images/Class2OneVsAl.png)
 
 
 The results of the One vs One classifier for Class 0 and Class 1
+
 ![](images/Class0Vs1.png)
 
 
 The results of the One vs One classifier for Class 0 and Class 2
+
 ![](images/Class0Vs2.png)
 
 
 The results of the One vs One classifier for Class 1 and Class 2
+
 ![](images/Class1Vs2.png)
